@@ -1,0 +1,10 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2
+    HTTP1.1 is standard protocol ,this has been using more than 15 years till now we are using this protocol only.
+    HTTP2 it is using only for greater performance
+
+2.Write a blog about objects and its internal representation in Javascript
+   Object is key-value pairs and we must use colon between key and value, it's separated by commas
+For example: var college{
+                          name: "st.joseph",
+                          principal:" babu "}
+                       console.log(college.name)
